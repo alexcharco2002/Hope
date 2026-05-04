@@ -24,8 +24,8 @@ export const metadata: Metadata = {
   title: { default: "Mother's Hope", template: "%s | Mother's Hope" },
   description: "Un espacio de historia, galería, reflexiones y comunidad.",
   icons: {
-    icon: "/esperanza.png",
-    apple: "/esperanza.png",
+    icon: "/esperanza-de-vida.png",
+    apple: "/esperanza-de-vida.png",
   },
   openGraph: {
     title: "Mother's Hope",

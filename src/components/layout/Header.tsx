@@ -49,7 +49,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="header__logo" aria-label="Mother's Hope — inicio">
           <Image 
-            src="/aceitunas.png" 
+            src="/esperanza-de-vida.png" 
             alt="Logo" 
             width={32} 
             height={32} 
